@@ -7,4 +7,4 @@ El siguiente repositorio está destinado para todos los trabajos que se realicen
 - Daniel Felipe Alzate Mateus
 - Juan Esteban Reyes Tausa
 - Kamilt Andres Bejarano Diaz
-
+- Daniel Vargas Peña
