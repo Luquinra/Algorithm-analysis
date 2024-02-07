@@ -6,4 +6,5 @@ El siguiente repositorio está destinado para todos los trabajos que se realicen
 - Santiago Mejía Fernández
 - Daniel Felipe Alzate Mateus
 - Juan Esteban Reyes Tausa
+- Kamilt Andres Bejarano Diaz
 
