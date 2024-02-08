@@ -8,3 +8,4 @@ El siguiente repositorio está destinado para todos los trabajos que se realicen
 - Juan Esteban Reyes Tausa
 - Kamilt Andres Bejarano Diaz 
 - Daniel Vargas Peña
+- Jerson Giovany Osorio Cely
