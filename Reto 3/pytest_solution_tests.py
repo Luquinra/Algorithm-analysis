@@ -30,6 +30,4 @@ def test_problem_4_within_expected_range():
 
 
 def test_problem_5_basic():
-  assert problem_5(
-      [20]
-  ) == 232792560, "La función debería retornar 232792560 como el número divisible por todos los números del 1 al 20"
+  assert problem_5(20) == 232792560, "La función debería retornar 232792560 como el número divisible por todos los números del 1 al 20"
