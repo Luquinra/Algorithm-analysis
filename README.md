@@ -3,9 +3,5 @@ El siguiente repositorio está destinado para todos los trabajos que se realicen
 
 **Grupo compuesto por:**
 - Luisa Fernanda Quintero Ramírez
-- Santiago Mejía Fernández
 - Daniel Felipe Alzate Mateus
 - Juan Esteban Reyes Tausa
-- Kamilt Andres Bejarano Diaz 
-- Daniel Vargas Peña
-- Jerson Giovany Osorio Cely
